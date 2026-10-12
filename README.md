@@ -16,4 +16,12 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Devdhe/Leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Yash-Devdhe/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Yash-Devdhe/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
