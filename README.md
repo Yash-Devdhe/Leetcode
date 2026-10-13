@@ -8,6 +8,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Devdhe/Leetcode/tree/master/0001-two-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Devdhe/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -29,4 +30,12 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yash-Devdhe/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
