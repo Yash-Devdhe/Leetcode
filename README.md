@@ -9,6 +9,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | [0001-two-sum](https://github.com/Yash-Devdhe/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Devdhe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Devdhe/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/1470-shuffle-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Devdhe/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -20,6 +21,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Devdhe/Leetcode/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -41,9 +43,14 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Devdhe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
