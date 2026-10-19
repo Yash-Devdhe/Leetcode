@@ -13,6 +13,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/1470-shuffle-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Devdhe/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -49,6 +50,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | ------- |
 | [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,8 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
