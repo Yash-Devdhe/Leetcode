@@ -68,4 +68,16 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
