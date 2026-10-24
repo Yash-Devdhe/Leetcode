@@ -71,6 +71,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -84,4 +85,8 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
