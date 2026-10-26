@@ -71,6 +71,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Yash-Devdhe/Leetcode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -89,4 +90,8 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Yash-Devdhe/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
