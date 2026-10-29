@@ -7,6 +7,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Devdhe/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Yash-Devdhe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Devdhe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yash-Devdhe/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Devdhe/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -103,4 +105,8 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yash-Devdhe/Leetcode/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Yash-Devdhe/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
