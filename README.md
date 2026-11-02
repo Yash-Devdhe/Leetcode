@@ -15,6 +15,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | [0485-max-consecutive-ones](https://github.com/Yash-Devdhe/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Yash-Devdhe/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Devdhe/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/1470-shuffle-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Devdhe/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -88,6 +89,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Devdhe/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-Devdhe/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -115,4 +117,8 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yash-Devdhe/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Devdhe/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
