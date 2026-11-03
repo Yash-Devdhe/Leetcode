@@ -21,6 +21,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yash-Devdhe/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Devdhe/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Devdhe/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Devdhe/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,6 +50,7 @@ In this repo i have uploaded all leetcdoe questions that i hacve solved
 | ------- |
 | [0009-palindrome-number](https://github.com/Yash-Devdhe/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Yash-Devdhe/Leetcode/tree/master/0050-powx-n) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Devdhe/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
